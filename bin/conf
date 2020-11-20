@@ -1,0 +1,6 @@
+contents="bashcms2_contents" # repository name
+contents_owner="ropiron" # user name
+wwwdir="/var/www" #  article repository abd bashcms2 directory
+contentsdir="$wwwdir/$contents" # article repository path
+appdir="$wwwdir/bashcms2" # bashcms2 install path
+
